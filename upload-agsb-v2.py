@@ -31,7 +31,7 @@ DEBUG_LOG = INSTALL_DIR / "python_debug.log"
 CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的域名
 
 # ====== 全局可配置参数（可直接在此处修改） ======
-USER_NAME = "king"         # 用户名
+USER_NAME = "zcd"         # 用户名
 UUID = "74cadb8f-521b-49e9-bd86-75755ad5db65"                     # UUID，留空则自动生成
 PORT = 8001                   # Vmess端口，留空或0则自动生成
 DOMAIN = "6.zcd.pp.ua"                   # 域名，留空则自动获取
