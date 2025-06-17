@@ -33,7 +33,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "zcd"         # 用户名
 UUID = "74cadb8f-521b-49e9-bd86-75755ad5db65"                     # UUID，留空则自动生成
-PORT = 8001                   # Vmess端口，留空或0则自动生成
+PORT = 30330                   # Vmess端口，留空或0则自动生成
 DOMAIN = "6.zcd.pp.ua"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiZjRkZjlhMzBkNWQ5YWFjNTg5MDdjZDIwMDRlMDQ3ZjIiLCJ0IjoiYzE3MGVkNmYtNjNkNC00M2MwLTk1NmYtOTM3OGFiOGExMGU0IiwicyI6Ik4yWXhaRGhpT0dNdE9HVTJOeTAwTVRRMUxXRmlORGN0TXpNeE1XTXlNamhsTTJFeCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
