@@ -32,10 +32,10 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "roosh"         # 用户名
-UUID = "175cf82c-bc95-432b-b1c8-23d400b4eeeb"                     # UUID，留空则自动生成
+UUID = "74cadb8f-521b-49e9-bd86-75755ad5db65"                     # UUID，留空则自动生成
 PORT = 8001                   # Vmess端口，留空或0则自动生成
-DOMAIN = "uus.roosh.dpdns.org"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiNzhmYTkwZTFhMjg5YWQyM2YzNDhiM2M3OGIwOThlY2IiLCJ0IjoiYWM1NTllODMtMjc3MC00YjhhLTlmZmItZmRmZjIyMzk0M2E0IiwicyI6Ik9XWTRaR05oTlRRdE1UQTNOaTAwWkRRMkxXSmtOMkl0WVdaaU56RTJaVGs1WVdSbCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+DOMAIN = "6.zcd.pp.ua"                   # 域名，留空则自动获取
+CF_TOKEN = "eyJhIjoiZjRkZjlhMzBkNWQ5YWFjNTg5MDdjZDIwMDRlMDQ3ZjIiLCJ0IjoiYzE3MGVkNmYtNjNkNC00M2MwLTk1NmYtOTM3OGFiOGExMGU0IiwicyI6Ik4yWXhaRGhpT0dNdE9HVTJOeTAwTVRRMUxXRmlORGN0TXpNeE1XTXlNamhsTTJFeCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
